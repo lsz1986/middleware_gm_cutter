@@ -4,9 +4,9 @@
 // See file LICENSE for detail or copy at http://jsoncpp.sourceforge.net/LICENSE
 #include "stdafx.h"
 #if !defined(JSON_IS_AMALGAMATION)
-#include "middleware/jsoncpp/inc/json/assertions.h"
-#include "middleware/jsoncpp/inc/json/value.h"
-#include "middleware/jsoncpp/inc/json/writer.h"
+#include "middleware_gm_cutter/jsoncpp/inc/json/assertions.h"
+#include "middleware_gm_cutter/jsoncpp/inc/json/value.h"
+#include "middleware_gm_cutter/jsoncpp/inc/json/writer.h"
 #endif // if !defined(JSON_IS_AMALGAMATION)
 #include <algorithm>
 #include <cassert>

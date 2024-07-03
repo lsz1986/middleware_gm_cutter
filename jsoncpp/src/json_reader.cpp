@@ -7,9 +7,9 @@
 
 #if !defined(JSON_IS_AMALGAMATION)
 #include "json_tool.h"
-#include "middleware/jsoncpp/inc/json/assertions.h"
-#include "middleware/jsoncpp/inc/json/reader.h"
-#include "middleware/jsoncpp/inc/json/value.h"
+#include "middleware_gm_cutter/jsoncpp/inc/json/assertions.h"
+#include "middleware_gm_cutter/jsoncpp/inc/json/reader.h"
+#include "middleware_gm_cutter/jsoncpp/inc/json/value.h"
 
 #endif // if !defined(JSON_IS_AMALGAMATION)
 #include <algorithm>

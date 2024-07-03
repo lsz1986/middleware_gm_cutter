@@ -8,7 +8,7 @@
 
 #if !defined(JSON_IS_AMALGAMATION)
 //#include <json/config.h>
-#include "middleware/jsoncpp/inc/json/config.h"
+#include "middleware_gm_cutter/jsoncpp/inc/json/config.h"
 #endif
 
 // Also support old flag NO_LOCALE_SUPPORT
